@@ -1,5 +1,8 @@
 # EHC Training Hub - Plateforme de Gestion de Formation
-
+Implement RBAC System (backend logic): This involves writing the backend code to handle user authentication, role assignment, permission checking, and middleware to protect your API routes based on user roles and permissions.
+Prioritize and Start Implementing Key CPS Modules: We can now begin implementing the backend API endpoints and frontend components for the prioritized CPS modules (User Management, Organization Structure, Budget Management, Reporting, etc.).
+Integrate with EHC E-Learning platform: Once we have more details about the E-Learning platform's API, we can start working on the integration.
+Add API and Integration Tests: As we implement the backend and frontend functionalities, we can start writing tests to ensure everything is working correctly.
 ## 📋 Description
 
 EHC Training Hub est une plateforme complète de gestion de formation développée pour EHC Group. Elle permet la gestion de l'ingénierie de formation de bout en bout, selon les besoins de l'entreprise.
